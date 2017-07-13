@@ -1,0 +1,131 @@
+body{
+    background: url("pictures/background.jpg");
+    font-family: inherit;
+    color: black;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-shadow: 0 2px 2px #ccc;
+  }
+header{
+    /*border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    position: fixed;
+    width: 100%;*/
+    background: white;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 0 2px 20px gray;
+    font-size: 30px;
+  }
+
+#home{
+    text-align: center;
+  }
+#friends{
+  color: #000099;
+  font-size: 30px;
+  border-radius: 7px;
+  background-color: white;
+  font-family: inherit;
+  font-variant: small-caps;
+  text-shadow: 0 2px 2px #ccc;
+  font-weight: bold;
+  box-shadow: 0 2px 10px darkgray;
+}
+#blog{
+  color: #000099;
+  font-size: 30px;
+  border-radius: 7px;
+  background-color: white;
+  font-family: inherit;
+  font-variant: small-caps;
+  text-shadow: 0 2px 2px #ccc;
+  font-weight: bold;
+  box-shadow: 0 2px 10px darkgray;
+}
+#photos{
+  color: #000099;
+  font-size: 30px;
+  border-radius: 7px;
+  background-color: white;
+  font-family: inherit;
+  font-variant: small-caps;
+  text-shadow: 0 2px 2px #ccc;
+  font-weight: bold;
+  box-shadow: 0 2px 10px darkgray;
+}
+
+#comments{
+    text-align: center;
+  }
+nav{
+    border-bottom: 20px;
+    background: white;
+    padding: 20px;
+    padding-top: 10px;
+    margin-top: 50px;
+  }
+  /*#picture{
+    border-bottom: 20px solid lightblue;
+    background: white;
+    padding: 20px;
+  }*/
+#vitals{
+    /*border-bottom: 20px solid lightblue;*/
+    background: none;
+    padding: 20px;
+  }
+
+#list{
+    /*border-bottom: 20px solid lightblue;*/
+    background: none;
+    padding: 20px;
+  }
+section{
+  background: white;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 0 2px 20px gray;
+}
+h1{
+  text-align: center;
+}
+h2{
+  color: black;
+  text-align: center;
+  }
+p{
+  text-align: center;
+}
+
+/*.summary-header{
+    font-size: 20px;
+  }*/
+
+#profile-photo{
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*left: 40%;*/
+    /*margin-left: -40px;*/
+  }
+nav a{
+    text-decoration: none;
+  }
+ul{
+  text-align: center;
+  list-style-position: inside;
+}
+li{
+  text-align: center;
+  list-style-position: inside;
+}
+}

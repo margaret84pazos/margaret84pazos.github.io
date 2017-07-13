@@ -1,0 +1,19 @@
+body{
+    background: url("pictures/background.jpg");
+    font-family: inherit;
+    color: black;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-shadow: 0 2px 2px #ccc;
+  }
+#blog{
+  color: #000099;
+  font-size: 30px;
+  border-radius: 7px;
+  background-color: white;
+  font-family: inherit;
+  font-variant: small-caps;
+  text-shadow: 0 2px 2px #ccc;
+  font-weight: bold;
+  box-shadow: 0 2px 10px darkgray;
+}
